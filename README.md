@@ -3,4 +3,4 @@
 ### TODO
 
 - most things
-- proper list of things to do
+- nah jk
