@@ -1,0 +1,41 @@
+{
+  "name": "sails-twitter",
+  "version": "0.0.1",
+  "description": "Twitter adapter for Sails.js",
+  "main": "index.js",
+  "author": {
+    "name": "Nicholas Crumrine"
+  },
+  "scripts": {
+    "test": "echo \"Adapter should be tested using Sails.js core.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uncletammy/sails-twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "sails",
+    "sailsjs",
+    "sails.js"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "async": "0.1.22",
+    "underscore": "1.4.3",
+    "underscore.string": "2.3.1",
+    "twit": "1.1.11"
+  },
+  "readme": "# Twitter Adapter for Sails.js Framework\n\n### TODO\n\n- most things\ngit@github.com:uncletammy/sails-twitter.git\n",
+  "bugs": {
+    "url": "https://github.com/uncletammy/sails-twitter/issues"
+  },
+  "homepage": "https://github.com/uncletammy/sails-twitter",
+  "_id": "sails-twitter@0.0.1",
+  "dist": {
+    "shasum": "7c4e41220c588c0b84acd80dc3fd9a971b68630c"
+  },
+  "_resolved": "git://github.com/uncletammy/sails-twitter.git#5203a581857c325936cf6532bd4997ea0dbc86cc",
+  "_from": "sails-twitter@git://github.com/uncletammy/sails-twitter.git"
+}
