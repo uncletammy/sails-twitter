@@ -25,7 +25,8 @@
     "async": "0.1.22",
     "underscore": "1.4.3",
     "underscore.string": "2.3.1",
-    "twit": "1.1.11"
+    "twit": "1.1.11",
+    "lodash": "1.2.1"
   },
   "readme": "# Twitter Adapter for Sails.js Framework\n\n### TODO\n\n- most things\ngit@github.com:uncletammy/sails-twitter.git\n",
   "bugs": {
